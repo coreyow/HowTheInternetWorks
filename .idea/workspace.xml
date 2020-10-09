@@ -20,14 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="747776ff-9a72-4e0c-8cd8-e9c0e2441441" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HowTheInternetWorks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnnn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DomainandICANN.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTTP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IPAdresses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3C.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/DNS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnnn.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,15 +39,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="HTML4 File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="newpages" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,7 +59,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -77,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602207988751</updated>
       <workItem from="1602207989818" duration="1233000" />
-      <workItem from="1602209588917" duration="309000" />
+      <workItem from="1602209588917" duration="2574000" />
     </task>
     <task id="LOCAL-00001" summary="task adding bs components">
       <created>1602209852625</created>
@@ -86,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602209852625</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="task adding bs base">
+      <created>1602210137459</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602210137459</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +115,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task adding bs components" />
-    <option name="LAST_COMMIT_MESSAGE" value="task adding bs components" />
+    <MESSAGE value="task adding bs base" />
+    <option name="LAST_COMMIT_MESSAGE" value="task adding bs base" />
   </component>
   <component name="WindowStateProjectService">
     <state x="460" y="254" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602208288674">
