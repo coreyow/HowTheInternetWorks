@@ -25,7 +25,7 @@ Activity Designations
 
 
 ## Project Navigation
-I. [Homepage](https://github.com/coreyow/HowTheInternetWorks/blob/master/Index.html)
+I. [Home](https://github.com/coreyow/HowTheInternetWorks/blob/master/Index.html) 
 
 II. [About](https://github.com/coreyow/HowTheInternetWorks/blob/master/About.html)
 
