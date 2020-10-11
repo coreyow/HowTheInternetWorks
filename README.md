@@ -21,7 +21,7 @@ Project Team
 Activity Designations
 - Feature: new page
 - Bug: fixed header
-- Task: created .gitignore
+- Task: created .gitignore 
 
 
 ## Project Navigation
