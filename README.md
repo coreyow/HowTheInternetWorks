@@ -21,13 +21,13 @@ Project Team
 Activity Designations
 - Feature: new page
 - Bug: fixed header
-- Task: created .gitignore 
+- Task: created .gitignore  
 
 
 ## Project Navigation
-I. [Homepage](https://github.com/coreyow/HowTheInternetWorks/blob/master/index.html)
+I. [Home](https://github.com/coreyow/HowTheInternetWorks/blob/master/Index.html) 
 
-II. [About](https://github.com/coreyow/HowTheInternetWorks/blob/master/about.html)
+II. [About](https://github.com/coreyow/HowTheInternetWorks/blob/master/About.html)
 
 III. [DNS](https://github.com/coreyow/HowTheInternetWorks/blob/master/DNS.html)
 
