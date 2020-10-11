@@ -25,24 +25,20 @@ Activity Designations
 
 
 ## Project Navigation
-I. [Homepage](https://github.com/rpr325/IS601InternetHistoryProject/blob/master/index.html)
+I. [Homepage](https://github.com/coreyow/HowTheInternetWorks/blob/master/index.html)
 
-II. [About](https://github.com/rpr325/IS601InternetHistoryProject/blob/master/about.html)
+II. [About](https://github.com/coreyow/HowTheInternetWorks/blob/master/about.html)
 
-III. [Team](https://github.com/rpr325/IS601InternetHistoryProject/blob/master/team.html)
+III. [DNS](https://github.com/coreyow/HowTheInternetWorks/blob/master/DNS.html)
 
-IV. [The Invention of the Internet](https://github.com/rpr325/IS601InternetHistoryProject/blob/master/internet.html)
+IV. [Domain & ICANN](https://github.com/coreyow/HowTheInternetWorks/blob/master/DomainandICANN.html)
 
-V. [Part 1 - Browser Wars](https://github.com/rpr325/IS601InternetHistoryProject/blob/master/browser.html)
+V. [HTTP & HTTPS Protocols](https://github.com/coreyow/HowTheInternetWorks/blob/master/HTTP.html)
 
-VI. [Part 2 - Internet Search](https://github.com/rpr325/IS601InternetHistoryProject/blob/master/search.html)
+VI. [IP Addresses, Packets & Routing](https://github.com/coreyow/HowTheInternetWorks/blob/master/IPAddresses.html)
 
-VII. [Part 3 - Dot Com Bubble](https://github.com/rpr325/IS601InternetHistoryProject/blob/master/dotcom.html)
+VII. [W3C, HTML, & CSS](https://github.com/coreyow/HowTheInternetWorks/blob/master/W3C.html)
 
-VIII. [Part 4 - People](https://github.com/rpr325/IS601InternetHistoryProject/blob/master/people.html)
 
 ## Sources Cited
-- [Source 1]
-- [Source 2]
-- [Source 3]
-- [Source 4]
+- Sources are cited within the body of work. 
